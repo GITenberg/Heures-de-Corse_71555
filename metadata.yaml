@@ -1,5 +1,8 @@
 _repo: Heures-de-Corse_71555
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71555-h/images/cover.jpg
 creator:
   author:
     agent_name: Lorrain, Jean
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jean_Lorrain
     - https://fr.wikipedia.org/wiki/Jean_Lorrain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71555#Heures-de-Corse
 gutenberg_issued: '2023-09-03'
 identifiers:
   gutenberg: '71555'
